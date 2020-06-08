@@ -2,4 +2,4 @@ username = "123456789123"
             
 password = "qwerty"
             
-save_path_cm = "E:\BİLGİSAYAR\Desktop\YLP_2.Dönem"
+save_path_cm = "E:\BİLGİSAYAR\Desktop"
