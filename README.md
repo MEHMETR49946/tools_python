@@ -1,12 +1,11 @@
-# tools_python
+# http://yukseklisans.online/
 ############# ylp_indir.py #################
 # İlk önce bilgisayarınıza Python 3'ü kurun 3.7 tavsiye edilir.
 # https://www.python.org/downloads/
 # Gerekli kütühaneler
 # 1 selenium -->> pip install selenium
-# 2 beautifulsoup4 -->> pip install beautifulsoup4 
-# 3 urllib -->> pip install urllib 
-# 4 easygui -->> pip install easygui 
+# 2 urllib -->> pip install urllib 
+# 3 easygui -->> pip install easygui 
 
 # # Gerekli programlar
 # 1 Chrome geckodriver ->> https://chromedriver.chromium.org/  !!not: firefox'ta olabilir isterseniz ama chrome önerilir.
